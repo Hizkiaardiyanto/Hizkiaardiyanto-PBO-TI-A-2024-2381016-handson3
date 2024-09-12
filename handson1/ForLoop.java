@@ -7,7 +7,7 @@ public class ForLoop {
             if (i == 2) {
                 break;
             }
-            System.out.println("Element ke " + (i + 1) + ": " + kumpulanBuah);
+            System.out.println("Element ke " + (i + 1) + ": " + kumpulanBuah[i]);
         }
     }
 }
